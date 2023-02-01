@@ -1,0 +1,398 @@
+[
+  {
+    "_id": "63bdacc25b29954bd0f66435",
+    "productName": "Falak Premium Pack 5 KG",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12627504-0-S.jpg?",
+    "productCategory": "Rice",
+    "companyName": "Gfresh",
+    "companyPrice": 1729,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6643a",
+    "productName": "Sunridge Premium Quality White Crystals Sugar 5 kg",
+    "productImage": "https://cdnprod.mafretailproxy.com/sys-master-root/h0f/ha1/29212496298014/253079_main.jpg_200Wx200H",
+    "productCategory": "Sugar",
+    "companyName": "Gfresh",
+    "companyPrice": 515,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66441",
+    "productName": "Rafhan Strawberry Custard 285g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1016657-1.jpg",
+    "productCategory": "Custard",
+    "companyName": "Gfresh",
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66442",
+    "productName": "Rafhan Banana Custard 285g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1019634-1.jpg",
+    "productCategory": "Custard",
+    "companyName": "Gfresh",
+    "companyPrice": 128,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66436",
+    "productName": "Falak Premium Super Kernel Basmati Rice 1 KG",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1020464-1.jpg",
+    "productCategory": "Rice",
+    "companyName": "Gfresh",
+    "companyPrice": 347,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6644d",
+    "productName": "Shangrila Chilli Sauce 300ml",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1031620-1.jpg",
+    "productCategory": "Sauce",
+    "companyName": "Gfresh",
+    "companyPrice": 138,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66459",
+    "productName": "Nestle Fruita Vitals Sparkling Peach Can 250",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12638973-0-S.jpg?2",
+    "productCategory": "Juice",
+    "companyName": "Gfresh",
+    "companyPrice": 100,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6645c",
+    "productName": "Dove Soap, Original, 135g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1072447-1.jpg",
+    "productCategory": "Soap",
+    "companyName": "Gfresh",
+    "companyPrice": 239,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66445",
+    "productName": "7UP 500ML",
+    "productImage": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12620259-0-S.jpg?9",
+    "productCategory": "Drinks",
+    "companyName": "Gfresh",
+    "companyPrice": 59,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66447",
+    "productName": "Mirinda Orange 1.5L",
+    "productImage": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12620544-0-S.jpg?2",
+    "productCategory": "Drinks",
+    "companyName": "Gfresh",
+    "companyPrice": 130,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66448",
+    "productName": "Mountain Dew 1.5L",
+    "productImage": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12621437-0-S.jpg?4",
+    "productCategory": "Drinks",
+    "companyName": "Gfresh",
+    "companyPrice": 130,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66456",
+    "productName": "Slice Mango Fruit Drink 200ML",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12620466-0-S.jpg?2",
+    "productCategory": "Juice",
+    "companyName": "Gfresh",
+    "companyPrice": 28,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6645e",
+    "productName": "Head \u0026 Shoulders Smooth \u0026 Silky Anti-Dandruff Shampoo, 185ml",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/1/1179344-1.jpg",
+    "productCategory": "Shampoo",
+    "companyName": "Gfresh",
+    "companyPrice": 395,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66443",
+    "productName": "7UP 1.5 LTR",
+    "productImage": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12620185-0-S.jpg?4",
+    "productCategory": "Drinks",
+    "companyName": "Gfresh",
+    "companyPrice": 130,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66444",
+    "productName": "7UP 500 ML X 12",
+    "productImage": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12620538-0-S.jpg?7",
+    "productCategory": "Drinks",
+    "companyName": "Gfresh",
+    "companyPrice": 840,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6644e",
+    "productName": "Shangrila Chilli Sauce 800ml",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1031623-1.jpg",
+    "productCategory": "Sauce",
+    "companyName": "Gfresh",
+    "companyPrice": 271,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66450",
+    "productName": "Nurpur Butter 200g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1016930-1.jpg",
+    "productCategory": "Butter",
+    "companyName": "Gfresh",
+    "companyPrice": 339,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66457",
+    "productName": "Nestle Fruita Vitals Falsa 1L",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12638156-0-S.jpg?3",
+    "productCategory": "Juice",
+    "companyName": "Gfresh",
+    "companyPrice": 325,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6645a",
+    "productName": "Lux Rose Glow Soap 175g",
+    "productImage": "https://cdnprod.mafretailproxy.com/sys-master-root/h2c/hd5/26432642285598/244743_main.jpg_200Wx200H",
+    "productCategory": "Soap",
+    "companyName": "Gfresh",
+    "companyPrice": 117,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6645d",
+    "productName": "Head \u0026 Shoulders Silky Black Anti-Dandruff Shampoo, 360ml",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/1/1183569-1.jpg",
+    "productCategory": "Shampoo",
+    "companyName": "Gfresh",
+    "companyPrice": 575,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6644f",
+    "productName": "National Jam Mix Fruit 200GM",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12622214-0-S.jpg?5",
+    "productCategory": "Jam",
+    "companyName": "Gfresh",
+    "companyPrice": 143,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66454",
+    "productName": "Nestle Milkpak Cream 200 ML",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12624396-0-S.jpg?20",
+    "productCategory": "Milk",
+    "companyName": "Gfresh",
+    "companyPrice": 156,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66461",
+    "productName": "Sunsilk Shampoo Thick and Long 185ML",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/2/1235710-1.jpg",
+    "productCategory": "Shampoo",
+    "companyName": "Gfresh",
+    "companyPrice": 297,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66437",
+    "productName": "Metro Chef Iodized Salt 800 GM",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12620010-0-S.jpg?5",
+    "productCategory": "Salt",
+    "companyName": "Gfresh",
+    "companyPrice": 47,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6643b",
+    "productName": "Rafhan Cornflour 275g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1031437-1.jpg",
+    "productCategory": "Flour",
+    "companyName": "Gfresh",
+    "companyPrice": 100,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66439",
+    "productName": "Sunridge Premium Quality White Crystals Sugar 1 kg",
+    "productImage": "https://cdnprod.mafretailproxy.com/sys-master-root/h8f/h2b/29212493578270/253078_main.jpg_200Wx200H",
+    "productCategory": "Sugar",
+    "companyName": "Gfresh",
+    "companyPrice": 105,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6643c",
+    "productName": "Rafhan Pudding Powder 78g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1018302-1.jpg",
+    "productCategory": "Pudding",
+    "companyName": "Gfresh",
+    "companyPrice": 96,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6643e",
+    "productName": "Rafhan Mango Jelly Powder 80g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/1/1162315-1.jpg",
+    "productCategory": "Jelly",
+    "companyName": "Gfresh",
+    "companyPrice": 96,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66453",
+    "productName": "Nestle Milkpak Full Cream Milk, 1000ml",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/8/9/8961008206400_3_jpg03.jpg",
+    "productCategory": "Milk",
+    "companyName": "Gfresh",
+    "companyPrice": 209,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66455",
+    "productName": "Slice Mango Juice 200 ML x24",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12621191-0-S.jpg?7",
+    "productCategory": "Juice",
+    "companyName": "Gfresh",
+    "companyPrice": 665,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6645f",
+    "productName": "Sunsilk Shampoo Hair Fall Solution 185ML",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/2/1235709-1.jpg",
+    "productCategory": "Shampoo",
+    "companyName": "Gfresh",
+    "companyPrice": 297,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66438",
+    "productName": "National Refined Salt 800 GM",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12620100-0-S.jpg?5",
+    "productCategory": "Salt",
+    "companyName": "Gfresh",
+    "companyPrice": 25,
+    "companyProductStock": 15,
+    "updatedAt": "2023-01-17T16:12:03.442Z"
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6643d",
+    "productName": "Rafhan strawberry Jelly 80 gr",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/1/1162316-1.jpg",
+    "productCategory": "Jelly",
+    "companyName": "Gfresh",
+    "companyPrice": 96,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66440",
+    "productName": "Rafhan Vanilla Custard 275g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1019635-1.jpg",
+    "productCategory": "Custard",
+    "companyName": "Gfresh",
+    "companyPrice": 128,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6644b",
+    "productName": "Shangrila Tomato Ketchup 800GM",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12620189-0-S.jpg?3",
+    "productCategory": "Ketchup",
+    "companyName": "Gfresh",
+    "companyPrice": 275,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66451",
+    "productName": "Olpers Milk 1000ML",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12620423-0-S.jpg?9",
+    "productCategory": "Milk",
+    "companyName": "Gfresh",
+    "companyPrice": 200,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66446",
+    "productName": "Coca-Cola 1.5 Litre",
+    "productImage": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12620112-0-S.jpg?2",
+    "productCategory": "Drinks",
+    "companyName": "Gfresh",
+    "companyPrice": 127,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6644a",
+    "productName": "Surf Excel Matic Top Load 1 KG",
+    "productImage": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12621403-0-S.jpg?5",
+    "productCategory": "Surf",
+    "companyName": "Gfresh",
+    "companyPrice": 179,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6644c",
+    "productName": "Shangrila Garlic Chilli Sauce Pouch, 800g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1035058-1_1.jpg",
+    "productCategory": "Sauce",
+    "companyName": "Gfresh",
+    "companyPrice": 275,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6645b",
+    "productName": "Lux Soft Touch Soap Bar 145g x 3",
+    "productImage": "https://cdnprod.mafretailproxy.com/sys-master-root/h74/h75/27844326195230/192005_main.jpg_200Wx200H",
+    "productCategory": "Soap",
+    "companyName": "Gfresh",
+    "companyPrice": 270,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f6643f",
+    "productName": "Rafhan Banana Jelly Powder 80g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1016440-1.jpg",
+    "productCategory": "Jelly",
+    "companyName": "Gfresh",
+    "companyPrice": 96,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66449",
+    "productName": "Ariel Washing Powder Machine Expert 1KG",
+    "productImage": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12638774-0-S.jpg?7",
+    "productCategory": "Surf",
+    "companyName": "Gfresh",
+    "companyPrice": 759,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66452",
+    "productName": "Olper's Chocolate Flavoured Milk, 180ml",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1066406-1.jpg",
+    "productCategory": "MIlk",
+    "companyName": "Gfresh",
+    "companyPrice": 60,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66458",
+    "productName": "Nestle Fruita Vitals Sparkling Lime Can",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12638972-0-S.jpg?2",
+    "productCategory": "Juice",
+    "companyName": "Gfresh",
+    "companyPrice": 100,
+    "companyProductStock": 15
+  }
+]

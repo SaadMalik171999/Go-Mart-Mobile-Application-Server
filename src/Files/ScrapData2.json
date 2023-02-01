@@ -1,0 +1,409 @@
+[
+  {
+    "_id": "63bdad1b5b29954bd0f6bd60",
+    "productName": "Rafhan Vanilla Custard 275g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1019635-1.jpg",
+    "productCategory": "Custard",
+    "companyName": "Groceteria",
+    "companyPrice": 128,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd57",
+    "productName": "National Refined Salt 800 GM",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12620100-0-S.jpg?5",
+    "productCategory": "Salt",
+    "companyName": "Groceteria",
+    "companyPrice": 90,
+    "companyProductStock": 15,
+    "updatedAt": "2023-01-18T08:10:41.543Z"
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd5c",
+    "productName": "Rafhan Pudding Powder 78g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1018302-1.jpg",
+    "productCategory": "Pudding",
+    "companyName": "Groceteria",
+    "companyPrice": 96,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd59",
+    "productName": "Sunridge Premium Quality White Crystals Sugar 5 kg",
+    "productImage": "https://cdnprod.mafretailproxy.com/sys-master-root/h0f/ha1/29212496298014/253079_main.jpg_200Wx200H",
+    "productCategory": "Sugar",
+    "companyName": "Groceteria",
+    "companyPrice": 515,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd72",
+    "productName": "Olper's Chocolate Flavoured Milk, 180ml",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1066406-1.jpg",
+    "productCategory": "MIlk",
+    "companyName": "Groceteria",
+    "companyPrice": 60,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd5a",
+    "productName": "Rafhan Cornflour 275g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1031437-1.jpg",
+    "productCategory": "Flour",
+    "companyName": "Groceteria",
+    "companyPrice": 100,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd6d",
+    "productName": "Shangrila Chilli Sauce 300ml",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1031620-1.jpg",
+    "productCategory": "Sauce",
+    "companyName": "Groceteria",
+    "companyPrice": 138,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd6f",
+    "productName": "National Jam Mix Fruit 200GM",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12622214-0-S.jpg?5",
+    "productCategory": "Jam",
+    "companyName": "Groceteria",
+    "companyPrice": 143,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd78",
+    "productName": "Nestle Fruita Vitals Sparkling Lime Can",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12638972-0-S.jpg?2",
+    "productCategory": "Juice",
+    "companyName": "Groceteria",
+    "companyPrice": 100,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd7b",
+    "productName": "Lux Soft Touch Soap Bar 145g x 3",
+    "productImage": "https://cdnprod.mafretailproxy.com/sys-master-root/h74/h75/27844326195230/192005_main.jpg_200Wx200H",
+    "productCategory": "Soap",
+    "companyName": "Groceteria",
+    "companyPrice": 270,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd7f",
+    "productName": "Sunsilk Shampoo Hair Fall Solution 185ML",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/2/1235709-1.jpg",
+    "productCategory": "Shampoo",
+    "companyName": "Groceteria",
+    "companyPrice": 297,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd65",
+    "productName": "Coca-Cola 1.5 Litre",
+    "productImage": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12620112-0-S.jpg?2",
+    "productCategory": "Drinks",
+    "companyName": "Groceteria",
+    "companyPrice": 127,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd66",
+    "productName": "Mirinda Orange 1.5L",
+    "productImage": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12620544-0-S.jpg?2",
+    "productCategory": "Drinks",
+    "companyName": "Groceteria",
+    "companyPrice": 130,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd67",
+    "productName": "Mountain Dew 1.5L",
+    "productImage": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12621437-0-S.jpg?4",
+    "productCategory": "Drinks",
+    "companyName": "Groceteria",
+    "companyPrice": 130,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd69",
+    "productName": "Ariel Washing Powder Machine Expert 1KG",
+    "productImage": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12638774-0-S.jpg?7",
+    "productCategory": "Surf",
+    "companyName": "Groceteria",
+    "companyPrice": 759,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd77",
+    "productName": "Nestle Fruita Vitals Falsa 1L",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12638156-0-S.jpg?3",
+    "productCategory": "Juice",
+    "companyName": "Groceteria",
+    "companyPrice": 325,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd7c",
+    "productName": "Dove Soap, Original, 135g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1072447-1.jpg",
+    "productCategory": "Soap",
+    "companyName": "Groceteria",
+    "companyPrice": 239,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd5e",
+    "productName": "Rafhan Mango Jelly Powder 80g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/1/1162315-1.jpg",
+    "productCategory": "Jelly",
+    "companyName": "Groceteria",
+    "companyPrice": 96,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd61",
+    "productName": "Rafhan Banana Custard 285g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1019634-1.jpg",
+    "productCategory": "Custard",
+    "companyName": "Groceteria",
+    "companyPrice": 128,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd73",
+    "productName": "Nestle Milkpak Full Cream Milk, 1000ml",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/8/9/8961008206400_3_jpg03.jpg",
+    "productCategory": "Milk",
+    "companyName": "Groceteria",
+    "companyPrice": 209,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd7e",
+    "productName": "Head \u0026 Shoulders Smooth \u0026 Silky Anti-Dandruff Shampoo, 185ml",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/1/1179344-1.jpg",
+    "productCategory": "Shampoo",
+    "companyName": "Groceteria",
+    "companyPrice": 395,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd56",
+    "productName": "Metro Chef Iodized Salt 800 GM",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12620010-0-S.jpg?5",
+    "productCategory": "Salt",
+    "companyName": "Groceteria",
+    "companyPrice": 47,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd6c",
+    "productName": "Shangrila Garlic Chilli Sauce Pouch, 800g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1035058-1_1.jpg",
+    "productCategory": "Sauce",
+    "companyName": "Groceteria",
+    "companyPrice": 275,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd71",
+    "productName": "Olpers Milk 1000ML",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12620423-0-S.jpg?9",
+    "productCategory": "Milk",
+    "companyName": "Groceteria",
+    "companyPrice": 200,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd74",
+    "productName": "Nestle Milkpak Cream 200 ML",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12624396-0-S.jpg?20",
+    "productCategory": "Milk",
+    "companyName": "Groceteria",
+    "companyPrice": 156,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd75",
+    "productName": "Slice Mango Juice 200 ML x24",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12621191-0-S.jpg?7",
+    "productCategory": "Juice",
+    "companyName": "Groceteria",
+    "companyPrice": 665,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd81",
+    "productName": "Sunsilk Shampoo Thick and Long 185ML",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/2/1235710-1.jpg",
+    "productCategory": "Shampoo",
+    "companyName": "Groceteria",
+    "companyPrice": 297,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd58",
+    "productName": "Sunridge Premium Quality White Crystals Sugar 1 kg",
+    "productImage": "https://cdnprod.mafretailproxy.com/sys-master-root/h8f/h2b/29212493578270/253078_main.jpg_200Wx200H",
+    "productCategory": "Sugar",
+    "companyName": "Groceteria",
+    "companyPrice": 105,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd55",
+    "productName": "Falak Premium Super Kernel Basmati Rice 1 KG",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1020464-1.jpg",
+    "productCategory": "Rice",
+    "companyName": "Groceteria",
+    "companyPrice": 347,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd54",
+    "productName": "Falak Premium Pack 5 KG",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12627504-0-S.jpg?",
+    "productCategory": "Rice",
+    "companyName": "Groceteria",
+    "companyPrice": 2000,
+    "companyProductStock": 15,
+    "updatedAt": "2023-01-10T18:30:51.775Z"
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd5d",
+    "productName": "Rafhan strawberry Jelly 80 gr",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/1/1162316-1.jpg",
+    "productCategory": "Jelly",
+    "companyName": "Groceteria",
+    "companyPrice": 96,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd5f",
+    "productName": "Rafhan Banana Jelly Powder 80g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1016440-1.jpg",
+    "productCategory": "Jelly",
+    "companyName": "Groceteria",
+    "companyPrice": 96,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd63",
+    "productName": "7UP 500 ML X 12",
+    "productImage": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12620538-0-S.jpg?7",
+    "productCategory": "Drinks",
+    "companyName": "Groceteria",
+    "companyPrice": 840,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd6a",
+    "productName": "Surf Excel Matic Top Load 1 KG",
+    "productImage": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12621403-0-S.jpg?5",
+    "productCategory": "Surf",
+    "companyName": "Groceteria",
+    "companyPrice": 179,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd70",
+    "productName": "Nurpur Butter 200g",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1016930-1.jpg",
+    "productCategory": "Butter",
+    "companyName": "Groceteria",
+    "companyPrice": 339,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd79",
+    "productName": "Nestle Fruita Vitals Sparkling Peach Can 250",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12638973-0-S.jpg?2",
+    "productCategory": "Juice",
+    "companyName": "Groceteria",
+    "companyPrice": 100,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd80",
+    "productName": "Sunsilk Co-Creations Stunning Black Shine Shampoo, 185ml",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/i/u/iu1203392-1.jpg",
+    "productCategory": "Shampoo",
+    "companyName": "Groceteria",
+    "companyPrice": 297,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd64",
+    "productName": "7UP 500ML",
+    "productImage": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12620259-0-S.jpg?9",
+    "productCategory": "Drinks",
+    "companyName": "Groceteria",
+    "companyPrice": 59,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd68",
+    "productName": "Pepsi 1.5Litre",
+    "productImage": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12620609-0-S.jpg?6",
+    "productCategory": "Drinks",
+    "companyPrice": 150,
+    "companyName": "Groceteria",
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd6b",
+    "productName": "Shangrila Tomato Ketchup 800GM",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12620189-0-S.jpg?3",
+    "productCategory": "Ketchup",
+    "companyName": "Groceteria",
+    "companyPrice": 275,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd76",
+    "productName": "Slice Mango Fruit Drink 200ML",
+    "productImage": "https://metro-online.pk/dashboard/prod-pic/LHE-01262/12620466-0-S.jpg?2",
+    "productCategory": "Juice",
+    "companyName": "Groceteria",
+    "companyPrice": 28,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd62",
+    "productName": "7UP 1.5 LTR",
+    "productImage": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12620185-0-S.jpg?4",
+    "productCategory": "Drinks",
+    "companyName": "Groceteria",
+    "companyPrice": 130,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd6e",
+    "productName": "Shangrila Chilli Sauce 800ml",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/1/0/1031623-1.jpg",
+    "productCategory": "Sauce",
+    "companyName": "Groceteria",
+    "companyPrice": 271,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdad1b5b29954bd0f6bd7a",
+    "productName": "Lux Rose Glow Soap 175g",
+    "productImage": "https://cdnprod.mafretailproxy.com/sys-master-root/h2c/hd5/26432642285598/244743_main.jpg_200Wx200H",
+    "productCategory": "Soap",
+    "companyName": "Groceteria",
+    "companyPrice": 117,
+    "companyProductStock": 15
+  },
+  {
+    "_id": "63bdacc25b29954bd0f66460",
+    "productName": "SAAD",
+    "productImage": "https://media.naheed.pk/catalog/product/cache/fd6f1e57839b9b324771e8de21428b3f/i/u/iu1203392-1.jpg",
+    "productCategory": "Shampoo",
+    "companyName": "Groceteria",
+    "companyPrice": 290,
+    "companyProductStock": 15
+  }
+]
